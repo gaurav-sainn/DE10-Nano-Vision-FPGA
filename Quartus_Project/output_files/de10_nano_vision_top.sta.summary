@@ -1,0 +1,101 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 100C Model Setup 'camera_emulator:u_camera_sim|cam_pclk'
+Slack : -6.862
+TNS   : -17852.242
+
+Type  : Slow 1100mV 100C Model Setup 'FPGA_CLK1_50'
+Slack : -3.482
+TNS   : -265.100
+
+Type  : Slow 1100mV 100C Model Hold 'FPGA_CLK1_50'
+Slack : 0.438
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Hold 'camera_emulator:u_camera_sim|cam_pclk'
+Slack : 0.509
+TNS   : 0.000
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'camera_emulator:u_camera_sim|cam_pclk'
+Slack : -2.636
+TNS   : -3763.599
+
+Type  : Slow 1100mV 100C Model Minimum Pulse Width 'FPGA_CLK1_50'
+Slack : -0.656
+TNS   : -78.909
+
+Type  : Slow 1100mV -40C Model Setup 'camera_emulator:u_camera_sim|cam_pclk'
+Slack : -6.831
+TNS   : -17131.679
+
+Type  : Slow 1100mV -40C Model Setup 'FPGA_CLK1_50'
+Slack : -3.369
+TNS   : -268.896
+
+Type  : Slow 1100mV -40C Model Hold 'FPGA_CLK1_50'
+Slack : 0.458
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Hold 'camera_emulator:u_camera_sim|cam_pclk'
+Slack : 0.561
+TNS   : 0.000
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'camera_emulator:u_camera_sim|cam_pclk'
+Slack : -2.636
+TNS   : -3816.446
+
+Type  : Slow 1100mV -40C Model Minimum Pulse Width 'FPGA_CLK1_50'
+Slack : -0.673
+TNS   : -74.503
+
+Type  : Fast 1100mV 100C Model Setup 'camera_emulator:u_camera_sim|cam_pclk'
+Slack : -3.406
+TNS   : -8289.823
+
+Type  : Fast 1100mV 100C Model Setup 'FPGA_CLK1_50'
+Slack : -2.193
+TNS   : -91.245
+
+Type  : Fast 1100mV 100C Model Hold 'FPGA_CLK1_50'
+Slack : 0.182
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Hold 'camera_emulator:u_camera_sim|cam_pclk'
+Slack : 0.197
+TNS   : 0.000
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'camera_emulator:u_camera_sim|cam_pclk'
+Slack : -2.174
+TNS   : -504.742
+
+Type  : Fast 1100mV 100C Model Minimum Pulse Width 'FPGA_CLK1_50'
+Slack : -0.691
+TNS   : -40.725
+
+Type  : Fast 1100mV -40C Model Setup 'camera_emulator:u_camera_sim|cam_pclk'
+Slack : -2.728
+TNS   : -6362.537
+
+Type  : Fast 1100mV -40C Model Setup 'FPGA_CLK1_50'
+Slack : -1.760
+TNS   : -73.099
+
+Type  : Fast 1100mV -40C Model Hold 'FPGA_CLK1_50'
+Slack : 0.166
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Hold 'camera_emulator:u_camera_sim|cam_pclk'
+Slack : 0.185
+TNS   : 0.000
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'camera_emulator:u_camera_sim|cam_pclk'
+Slack : -2.174
+TNS   : -521.628
+
+Type  : Fast 1100mV -40C Model Minimum Pulse Width 'FPGA_CLK1_50'
+Slack : -0.740
+TNS   : -53.367
+
+------------------------------------------------------------
