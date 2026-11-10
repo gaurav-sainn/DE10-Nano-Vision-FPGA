@@ -1,1 +1,22 @@
+# Quartus generated files
+db/
+incremental_db/
+*.qws
+*.bak
 
+# Simulation generated files
+simulation/questa/rtl_work/
+transcript
+vsim.wlf
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# Keep selected Quartus compilation results
+!Quartus_Project/output_files/de10_nano_vision_top.sof
+!Quartus_Project/output_files/de10_nano_vision_top.fit.summary
+!Quartus_Project/output_files/de10_nano_vision_top.map.summary
+!Quartus_Project/output_files/de10_nano_vision_top.sta.summary
